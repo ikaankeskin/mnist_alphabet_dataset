@@ -1,3 +1,8 @@
+# About this Dataset
+
+I found a way to combine and balance the training data for mnist(0-9) and alphabetical letters(A-z) 
+
+
 # Instructions for Using the Dataset
 
 This guide will assist you in extracting dataset contents, running the `dataset.py` script, and loading the saved `.pt` files for training in a PyTorch environment.
